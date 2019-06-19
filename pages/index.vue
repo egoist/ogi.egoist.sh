@@ -55,7 +55,7 @@
     <div class="introduction">
       <h2>What is this?</h2>
       <p>
-        A quick and simple way to create a image as social media preview.
+        A quick and simple way to create a image as social media preview. This works by using <a href="https://github.com/tsayen/dom-to-image" target="_blank">dom-to-imagea</a> to generate an image from a DOM node, while <a href="https://og-image.now.sh/" target="_blank">og-image.now.sh</a> uses Chrome headless under the hood to take a screenshot of the web page.
       </p>
     </div>
 

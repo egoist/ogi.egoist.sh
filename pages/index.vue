@@ -90,7 +90,7 @@ export default {
         },
         {
           property: 'og:image',
-          content: ogImage
+          content: `${this.$siteConfig.url}${ogImage}`
         }
       ]
     }

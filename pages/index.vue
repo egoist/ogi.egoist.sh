@@ -134,6 +134,11 @@ export default {
               }
               .output-logo {
                 margin-bottom: 50px;
+                background-color: #ffffff;
+              }
+              .output-text {
+                margin-bottom: 50px;
+                background-color: #ffffff;
               }
               .output-logo img {
                 width: ${

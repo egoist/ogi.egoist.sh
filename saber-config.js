@@ -1,5 +1,5 @@
 module.exports = {
   siteConfig: {
-    title: 'Open Graph Image as a Service'
+    title: 'Online Open Graph Image Generator'
   }
 }

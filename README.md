@@ -1,6 +1,6 @@
 # ogi.egoist.sh
 
-Open Graph Image as a Service.
+Online Open Graph Image Generator.
 
 ## Development
 

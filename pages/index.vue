@@ -81,12 +81,20 @@ export default {
       title: this.$siteConfig.title,
       meta: [
         {
+          name: 'description',
+          content: this.$siteConfig.description
+        },
+        {
           name: 'twitter:card',
           content: 'summary_large_image'
         },
         {
           property: 'og:title',
           content: this.$siteConfig.title
+        },
+        {
+          property: 'og:description',
+          content: this.$siteConfig.description
         },
         {
           property: 'og:image',

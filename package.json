@@ -1,0 +1,16 @@
+{
+  "name": "ogi.egoist.sh",
+  "private": true,
+  "scripts": {
+    "build": "saber build",
+    "dev": "saber"
+  },
+  "devDependencies": {
+    "saber": "^0.6.8"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "marked": "^0.6.2",
+    "vue-github-badge": "^1.0.1"
+  }
+}

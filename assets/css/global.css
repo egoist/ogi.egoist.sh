@@ -1,0 +1,22 @@
+:root {
+  --border-color: #e2e2e2;
+}
+
+body {
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.input {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: inherit;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

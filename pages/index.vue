@@ -137,7 +137,8 @@ export default {
                 background-color: #ffffff;
               }
               .output-text {
-                margin-bottom: 50px;
+                word-wrap: break-word;
+                padding: 10px;
                 background-color: #ffffff;
               }
               .output-logo img {

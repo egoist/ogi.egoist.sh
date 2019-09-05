@@ -134,6 +134,12 @@ export default {
               }
               .output-logo {
                 margin-bottom: 50px;
+                background-color: #ffffff;
+              }
+              .output-text {
+                word-wrap: break-word;
+                padding: 10px;
+                background-color: #ffffff;
               }
               .output-logo img {
                 width: ${

@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "dom-to-image": "^2.6.0",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "vue-github-badge": "^1.0.1"
   }
 }
